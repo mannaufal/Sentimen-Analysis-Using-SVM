@@ -1,0 +1,456 @@
+Date,Tweet,Sentiment
+2022-03-06 23:59:05,"['produk', 'hukum', 'uu', 'minerba', 'uu', 'cipta', 'kerja', 'revisi', 'sah', 'korporasi', 'tambang', 'ugalugalan']",negative
+2022-03-06 23:42:19,"['uu', 'cipta', 'kerja', 'investor', 'bangsa', 'butuh', 'akselerasi', 'ekonomi', 'bangun']",positive
+2022-03-06 22:46:04,"['produk', 'hukum', 'uu', 'minerba', 'uu', 'cipta', 'kerja', 'revisi', 'sah', 'korporasi', 'tambang', 'ugal']",negative
+2022-03-06 20:34:23,"['produk', 'hukum', 'uu', 'minerba', 'uu', 'cipta', 'kerja', 'revisi', 'sah', 'korporasi', 'tambang', 'ugalugalan', 'video', 'direktur', 'operasional', 'pt', 'gema', 'kreasi', 'perdana', 'anak', 'usaha', 'harita', 'group', 'ancam', 'warga', 'tolak', 'tambang', 'roko', 'raya']",negative
+2022-03-06 18:09:18,"['trial', 'error', 'milu', 'kardus', 'gembok', 'aman', 'hasil', 'milu', 'umum', 'malam', 'aman', 'uu', 'cipta', 'kerja']",negative
+2022-03-06 17:18:25,"['sridianava', 'sabar', 'rakyat', 'larang', 'ngeluh', 'lapar', 'ngeluh', 'bpjs', 'bbm', 'listrik', 'bikin', 'atur', 'besok', 'minyak', 'lenyap']",negative
+2022-03-06 15:05:33,"['hidup', 'negeri', 'survei', 'barang', 'tinggal', 'survei', 'rakyat', 'puas', 'uu', 'kpk', 'tolak', 'tinggal', 'survei', 'rakyat', 'tuju', 'uu', 'cipta', 'kerja', 'tolak', 'tinggal', 'survei', 'rakyat', 'tuju', 'survei', 'kalah', 'timnas', 'kasihan', 'dibully', 'minimal', 'puas', 'publik', 'hasil', 'survei']",negative
+2022-03-06 13:49:01,"['produk', 'hukum', 'uu', 'minerba', 'uu', 'cipta', 'kerja', 'revisi', 'sah', 'korporasi', 'tambang', 'ugalugalan', 'peristiwa', 'ancam', 'kamis', 'maret', 'pt', 'gkp', 'kali', 'serobot', 'lahan', 'milik', 'warga', 'tolak', 'tambang']",negative
+2022-03-06 13:42:20,"['konektivitas', 'global', 'peluang', 'kuat', 'kolaborasi', 'internasional', 'dukung', 'uu', 'cipta', 'kerja']",positive
+2022-03-06 13:12:21,"['uu', 'cipta', 'kerja', 'hilang', 'pungli', 'sistem', 'online', 'ayo', 'dukung']",positive
+2022-03-06 12:42:16,"['laku', 'bantu', 'uu', 'cipta', 'kerja']",positive
+2022-03-06 12:12:21,"['uu', 'cipta', 'kerja', 'wujud', 'laku', 'umkm']",positive
+2022-03-06 11:51:19,"['buset', 'bahas', 'uu', 'cipta', 'kerja', 'pokok']",negative
+2022-03-06 11:42:18,"['uu', 'cipta', 'kerja', 'maju', 'ekonomi']",positive
+2022-03-06 11:12:30,"['uu', 'cipta', 'kerja', 'dorong', 'umkm']",positive
+2022-03-06 10:43:55,"['schloss', 'ah', 'urus', 'uu', 'cipta', 'kerja', 'langsung', 'bikin', 'sengsara', 'sah']",negative
+2022-03-06 09:12:21,"['uu', 'cipta', 'kerja', 'manufaktur']",positive
+2022-03-06 08:42:17,"['sih', 'masyarakat', 'tolak', 'uu', 'cipta', 'kerja', 'maju', 'bodoh']",negative
+2022-03-06 08:12:30,"['uu', 'cipta', 'kerja', 'mudah', 'susah']",positive
+2022-03-06 08:04:28,"['sridianava', 'sabar', 'rakyat', 'larang', 'ngeluh', 'lapar', 'ngeluh', 'bpjs', 'bbm', 'listrik', 'bikin', 'atur', 'besok', 'minyak', 'lenyap', 'sengaja', 'alih', 'isu', 'uu', 'iknuu', 'cipta', 'kerja', 'yg', 'suara', 'rakyat', 'buzzer', 'manusia', 'gila', 'jabat', 'arah', 'serang', 'oposisi', 'lantang', 'suara']",negative
+2022-03-06 07:42:18,"['uu', 'cipta', 'kerja', 'mudah', 'mahasiswa', 'rintis', 'usaha']",positive
+2022-03-06 07:42:02,"['politik', 'pangan', 'ubah', 'utama', 'upaya', 'swasembada', 'uu', 'cipta', 'kerja', 'revisi', 'uu', 'pangan', 'tempat', 'impor', 'strategi', 'tahan', 'pangan', 'impor', 'pilih']",positive
+2022-03-06 07:12:23,"['uu', 'cipta', 'kerja', 'mudah', 'laku', 'umkm']",positive
+2022-03-06 06:52:37,"['tanggung', 'muncul', 'uu', 'omnibuslaw', 'uu', 'cipta', 'kerja', 'jamin', 'tua']",positive
+2022-03-06 06:42:16,"['uu', 'cipta', 'kerja', 'untung']",positive
+2022-03-06 05:57:00,"['uu', 'cipta', 'kerja', 'mangkas', 'birokrasi', 'mudah', 'masuk', 'tanam', 'modal', 'investasi', 'asing', 'negeri', 'investasi', 'tingkat', 'lapang', 'kerja', 'daya', 'beli', 'masyarakat']",positive
+2022-03-06 04:25:18,"['trial', 'error', 'milu', 'kardus', 'gembok', 'aman', 'hasil', 'milu', 'umum', 'malam', 'aman', 'uu', 'cipta', 'kerja', 'aman', 'ubah', 'konstitusi', 'mosok', 'diam']",negative
+2022-03-06 04:12:21,"['jam', 'kerja', 'atur', 'uu', 'cipta', 'kerja']",positive
+2022-03-06 03:12:22,"['uu', 'cipta', 'kerja', 'mudah', 'izin']",positive
+2022-03-06 02:50:45,"['mbak', 'atur', 'uu', 'ciptaker']",positive
+2022-03-06 02:44:51,"['habis', 'uu', 'cipta', 'kerja', 'mas', 'orang']",positive
+2022-03-06 02:42:16,"['uu', 'cipta', 'kerja', 'sederhana', 'dalamm', 'izin']",positive
+2022-03-06 02:12:31,"['heran', 'sih', 'benci', 'uu', 'cipta', 'kerja']",positive
+2022-03-06 01:42:17,"['uu', 'cipta', 'kerja', 'ringan', 'beban', 'laku', 'umkm']",positive
+2022-03-06 00:42:16,"['uu', 'cipta', 'kerja', 'gubernur', 'wajib', 'tetap', 'upah', 'minimum', 'buruh']",positive
+2022-03-06 00:27:24,"['jogja', 'ribut', 'duga', 'belok', 'sejarah', 'keluar', 'naskah', 'akademik', 'kelola', 'negara', 'amatir', 'kaca', 'proses', 'buat', 'uu', 'cipta', 'kerja', 'anulir', 'mk']",negative
+2022-03-05 23:12:32,"['rugi', 'ko', 'uu', 'cipta', 'kerja']",positive
+2022-03-05 18:59:20,"['manfaat', 'uu', 'cipta', 'kerja']",positive
+2022-03-05 15:18:49,"['sekian', 'tulis', 'kupas', 'kondisi', 'buruh', 're', 'uu', 'ciptaker', 'as', 'our', 'collective', 'iron', 'ball']",positive
+2022-03-05 14:12:31,"['uu', 'cipta', 'kerja', 'tetap', 'jam', 'kerja', 'rancang', 'untung', 'buruh']",positive
+2022-03-05 13:42:18,"['uu', 'cipta', 'kerja', 'sederhana', 'atur']",positive
+2022-03-05 12:12:23,"['uu', 'cipta', 'kerja', 'mudah', 'izin', 'buka', 'usaha']",positive
+2022-03-05 11:42:16,"['uu', 'cipta', 'kerja', 'bantu', 'laku', 'umkm', 'tengah']",positive
+2022-03-05 11:12:30,"['ayo', 'bangkit', 'ekonomi', 'dukung', 'uu', 'cipta', 'kerja']",positive
+2022-03-05 10:42:19,"['uu', 'cipta', 'kerja', 'bantu', 'buruh']",positive
+2022-03-05 10:12:21,"['wujud', 'mimpi', 'buruh', 'uu', 'cipta', 'kerja']",positive
+2022-03-05 09:42:18,"['uu', 'cipta', 'kerja', 'bangkit', 'ekonomi', 'bangsa']",positive
+2022-03-05 08:27:46,"['lights', 'uu', 'cipta', 'kerja', 'mangkas', 'proses', 'birokrasi', 'hukum', 'jamin', 'hukum', 'pasti', 'investasi']",positive
+2022-03-05 08:27:30,"['lights', 'dampak', 'uu', 'cipta', 'kerja', 'tingkat', 'iklim', 'usaha', 'investasi', 'cipta', 'lapang', 'kerja', 'juta']",positive
+2022-03-05 08:27:12,"['lights', 'uu', 'cipta', 'kerja', 'mudah', 'optimisme', 'investor', 'asing', 'tanam', 'modal', 'usaha']",positive
+2022-03-05 08:26:30,"['dampak', 'uu', 'cipta', 'kerja', 'tingkat', 'iklim', 'usaha', 'investasi', 'cipta', 'lapang', 'kerja', 'juta', 'masyarakat']",positive
+2022-03-05 08:26:13,"['uu', 'cipta', 'kerja', 'mangkas', 'proses', 'birokrasi', 'hukum', 'jamin', 'hukum', 'pasti', 'investasi']",positive
+2022-03-05 08:26:04,"['uu', 'cipta', 'kerja', 'mudah', 'optimisme', 'investor', 'asing', 'tanam', 'modal', 'usaha', 'cipta']",positive
+2022-03-05 08:24:57,"['uu', 'cipta', 'kerja', 'mangkas', 'proses', 'birokrasi', 'hukum', 'jamin', 'hukum', 'pasti', 'investasi']",positive
+2022-03-05 08:23:02,"['dampak', 'uu', 'cipta', 'kerja', 'tingkat', 'iklim', 'usaha', 'investasi', 'cipta', 'lapang', 'kerja']",positive
+2022-03-05 06:08:58,"['uu', 'cipta', 'kerja', 'perijinan', 'ambil', 'alih', 'pusat']",positive
+2022-03-05 04:36:14,"['uu', 'cipta', 'kerja', 'dorong', 'lahir', 'koperasi', 'modern', 'umkm', 'kelas']",positive
+2022-03-05 04:36:13,"['guru', 'ipb', 'tuju', 'uu', 'cipta', 'kerja', 'cipta', 'lapang', 'kerja']",positive
+2022-03-05 04:36:13,"['perintah', 'hormat', 'taat', 'putus', 'mk', 'kait', 'revisi', 'uu', 'cipta', 'kerja']",positive
+2022-03-05 04:36:13,"['uu', 'cipta', 'kerja', 'wujud', 'visi', 'negara']",positive
+2022-03-05 04:36:11,"['uu', 'cipta', 'kerja', 'laku', 'revisi', 'perintah', 'keluar', 'atur', 'turun', 'fokus', 'revisi', 'sesuai', 'masuk', 'mk', 'revisi']",positive
+2022-03-05 03:40:00,"['dampak', 'uu', 'cipta', 'kerja', 'tingkat', 'iklim', 'usaha', 'investasi', 'cipta', 'lapang', 'kerja', 'juta', 'masyarakat']",positive
+2022-03-05 03:36:00,"['uu', 'cipta', 'kerja', 'mangkas', 'proses', 'birokrasi', 'hukum', 'jamin', 'hukum', 'pasti', 'investasi', 'investor', 'perintah']",positive
+2022-03-05 03:31:00,"['uu', 'cipta', 'kerja', 'mudah', 'optimisme', 'investor', 'asing', 'tanam', 'modal', 'usaha', 'cipta', 'lapang', 'kerja', 'serap', 'tenaga', 'kerja', 'masyarakat']",positive
+2022-03-05 02:52:52,"['arah', 'sentralistik', 'jakarta', 'lihat', 'bumn', 'merger', 'muncul', 'uu', 'cipta', 'kerja', 'daerah', 'izin', 'urus', 'sda', 'televisi', 'tayang', 'hidup', 'jakarta', 'berita', 'sinetron']",negative
+2022-03-05 02:50:27,"['uu', 'cipta', 'kerja', 'kalo', 'abis', 'kontrak', 'dapet', 'kompensasi']",positive
+2022-03-05 01:52:57,"['eksaminasi', 'publik', 'putus', 'mk', 'uji', 'formil', 'uu', 'cipta', 'kerja', 'nomor', 'puuxviii', 'jo', 'putus', 'mk', 'nomor', 'puuxviii']",positive
+2022-03-04 23:37:16,"['ntt', 'opini', 'kanwil', 'ntt', 'uu', 'cipta', 'kerja', 'peluang', 'laku', 'umkm', 'bangkit', 'tengah', 'pandemi', 'lengkap']",positive
+2022-03-04 22:11:11,"['konon', 'uu', 'cipta', 'kerja', 'susun', 'dukung', 'naskah', 'akademik', 'langgar', 'konstitusi']",negative
+2022-03-04 20:33:31,"['pesan', 'khusus', 'jabat', 'lantik', 'pantau', 'optimal', 'aktivitas', 'tetap']",positive
+2022-03-04 18:46:42,"['kejar', 'hasrat', 'investasi', 'beleid', 'sapu', 'jagat', 'uu', 'cipta', 'kerja', 'pindah', 'kota', 'bahas']",negative
+2022-03-04 17:19:40,"['sosialisasi', 'uu', 'hak', 'cipta', 'kerja', 'cipta', 'suasana', 'kondusif']",positive
+2022-03-04 14:13:16,"['konon', 'uu', 'cipta', 'kerja', 'susun', 'dg', 'dukung', 'naskah', 'akademik', 'langgar', 'konstitusi']",negative
+2022-03-04 13:57:56,"['sempurna', 'uu', 'cipta', 'kerja', 'jamin', 'investasi', 'lindung', 'tenaga', 'kerja']",positive
+2022-03-04 12:12:21,"['dukung', 'terap', 'uu', 'cipta', 'kerja']",positive
+2022-03-04 12:11:24,"['kejar', 'hasrat', 'investasi', 'beleid', 'sapu', 'jagat', 'uu', 'cipta', 'kerja', 'pindah', 'kota', 'bahas', 'super', 'cepat', 'uu', 'kota', 'negara', 'hukum', 'tulis', 'terbit', 'partisipasi', 'publik', 'esensi', 'demokrasi']",negative
+2022-03-04 11:41:58,"['sekian', 'tulis', 'kupas', 'kondisi', 'buruh', 're', 'uu', 'ciptaker', 'as', 'our', 'collective', 'iron', 'ballchainedtoankle', 'indopoggers', 'tulis', 'bagus', 'primer']",positive
+2022-03-04 11:19:06,"['dpr', 'percaya', 'rendah', 'sorot', 'publik', 'uu', 'cipta', 'kerja', 'proses', 'nilai', 'cepat', 'libat', 'partisipasi', 'publik', 'uu', 'ikn']",negative
+2022-03-04 11:07:16,"['cipta', 'uu', 'cipta', 'kerja', 'lapang', 'kerja', 'oligarki', 'kuat', 'alir', 'modal', 'rugi']",negative
+2022-03-04 10:42:18,"['dasar', 'uu', 'cipta', 'kerja', 'sah']",positive
+2022-03-04 10:01:10,"['resmi', 'uu', 'cipta', 'kerja', 'prosedur', 'daftar', 'izin', 'usaha', 'baharu', 'ossrba', 'online', 'single', 'submission', 'riskbased', 'apporach', 'ossrba', 'sistem', 'izin', 'usaha', 'dasar', 'resiko', 'integrasi', 'elektronik']",positive
+2022-03-04 09:21:27,"['pesan', 'khusus', 'jabat', 'lantik', 'pantau', 'optimal', 'aktivitas', 'tetap', 'ruang', 'laut', 'awal', 'revisi', 'uu', 'cipta', 'kerja', 'tingkat', 'kualitas', 'sumber', 'daya', 'manusia', 'didik', 'vokasi', 'nelayan']",positive
+2022-03-04 08:12:30,"['uu', 'cipta', 'kerja', 'pihak', 'masyarakat', 'tekan', 'angka', 'anggur']",positive
+2022-03-04 07:12:54,"['proses', 'paksa', 'uu', 'kpk', 'uu', 'minerba', 'uu', 'cipta', 'kerja', 'paksa', 'pindah', 'ikn', 'bahaya', 'hidup', 'rakyat', 'penting', 'penting', 'oligarki', 'konten']",negative
+2022-03-04 06:12:22,"['untung', 'buruh', 'uu', 'cipta', 'kerja']",positive
+2022-03-04 05:48:32,"['perintah', 'taat', 'putus', 'mk', 'kait', 'uu', 'cipta', 'kerja', 'laku', 'investasi', 'maju', 'ekonomi', 'nasional']",positive
+2022-03-04 05:42:18,"['uu', 'cipta', 'kerja', 'sejahtera', 'buruh']",positive
+2022-03-04 03:52:12,"['listrik', 'bikin', 'bakar', 'salah', 'tahan', 'pangan', 'impor', 'uu', 'cipta', 'kerja', 'uu', 'nyata', 'inkonstitusional', 'lupa', 'susah', 'bingung', 'ngapain']",negative
+2022-03-04 02:40:41,"['investasi', 'untung', 'uu', 'cipta', 'kerja', 'upaya', 'perintah', 'investasi', 'sederhana', 'izin', 'birokrasi']",positive
+2022-03-03 17:33:38,"['judul', 'skripsi', 'guys', 'analisis', 'yuridis', 'syarat', 'payudara', 'lamar', 'kerja', 'tinjau', 'uu', 'cipta', 'kerja', 'uu', 'ketenagakerjaan']",negative
+2022-03-03 16:05:37,"['mari', 'beranda', 'andai', 'rakyat', 'demo', 'revisi', 'uu', 'kpk', 'uu', 'cipta', 'kerja', 'jilid', 'jilid', 'sah', 'rezim', 'sungguh', 'langgar', 'garis']",negative
+2022-03-03 14:31:55,"['contoh', 'cipta', 'kerja', 'uu', 'kpk', 'perintah', 'dengar', 'aspirasi', 'masyarakat', 'akomodir', 'libat', 'masyarakat', 'batas', 'ritual', 'semu']",negative
+2022-03-03 14:18:14,"['uu', 'cipta', 'kerja', 'jamin', 'investasi']",positive
+2022-03-03 13:45:48,"['perintah', 'sayang', 'tabiat', 'blunder', 'uu', 'cipta', 'kerja', 'zonk', 'regulasi', 'jht', 'gagal']",negative
+2022-03-03 13:23:15,"['pajak', 'dividen', 'negeri', 'tetap', 'uu', 'cipta', 'kerja', 'kena', 'tarif', 'yah', 'terima', 'badan', 'op']",positive
+2022-03-03 11:27:53,"['ri', 'sulsel', 'kasubid', 'ahu', 'kemenkumham', 'sulsel', 'jean', 'henry', 'patu', 'persero', 'orang', 'jenis', 'badan', 'hukum', 'atur', 'uu', 'no', 'cipta', 'kerja', 'ri', 'sulsel']",positive
+2022-03-03 10:42:04,"['aker', 'tindak', 'pidana', 'uu', 'ketenagakerjaan', 'uu', 'cipta', 'kerja', 'usaha', 'larang']",negative
+2022-03-03 10:28:07,"['ekspos', 'pan', 'pkb', 'bangkit', 'lawan', 'paksa', 'partai', 'tolak', 'tunda', 'milu']",negative
+2022-03-03 09:46:47,"['uu', 'cipta', 'kerja', 'pesan', 'tiongkok', 'perintah', 'laku', 'makar', 'ferry', 'juliantono']",negative
+2022-03-03 09:45:44,"['aluihang', 'sekjen', 'mui', 'uu', 'cipta', 'kerja', 'mudah', 'tka', 'china']",negative
+2022-03-03 08:07:13,"['uu', 'cipta', 'kerja', 'sempurna', 'jamin', 'manfaat', 'langsung', 'iklim', 'usaha', 'investasi']",positive
+2022-03-03 08:06:58,"['revisi', 'uu', 'cipta', 'kerja', 'jamin', 'pasti', 'hukum', 'mudah', 'iklim', 'usaha', 'investasi']",positive
+2022-03-03 08:06:24,"['pasca', 'uu', 'cipta', 'kerja', 'pasti', 'hukum', 'perintah', 'investor', 'usaha', 'tanam', 'modal']",positive
+2022-03-03 08:05:26,"['pasca', 'uu', 'cipta', 'kerja', 'pasti', 'hukum', 'perintah', 'investor', 'usaha', 'tanam', 'modal', 'relokasi']",positive
+2022-03-03 08:04:47,"['uu', 'cipta', 'kerja', 'sempurna', 'jamin', 'manfaat', 'langsung', 'iklim', 'usaha', 'investasi']",positive
+2022-03-03 07:39:00,"['pasca', 'uu', 'cipta', 'kerja', 'pasti', 'hukum', 'perintah', 'investor', 'usaha', 'tanam', 'modal', 'relokasi', 'produksi', 'ribu', 'lowong', 'kerja', 'sedia']",positive
+2022-03-03 07:34:00,"['uu', 'cipta', 'kerja', 'sempurna', 'jamin', 'manfaat', 'langsung', 'iklim', 'usaha', 'investasi', 'masyarakat', 'investor']",positive
+2022-03-03 07:33:00,"['revisi', 'uu', 'cipta', 'kerja', 'jamin', 'pasti', 'hukum', 'mudah', 'iklim', 'usaha', 'investasi']",positive
+2022-03-03 06:27:02,"['iya', 'dalang', 'ngaku', 'jenderal', 'berani', 'ngomong', 'terang', 'prakasa', 'uu', 'cipta']",negative
+2022-03-03 05:29:37,"['reklamasi', 'batal', 'lbp', 'sikeras', 'ikn', 'uu', 'cipta', 'kerja']",negative
+2022-03-03 05:04:20,"['reklamasi', 'batal', 'lbp', 'sikeras', 'ikn', 'uu', 'cipta', 'kerja', 'langsung', 'batal', 'presiden']",negative
+2022-03-03 05:03:43,"['naudzubillah', 'periode', 'sengsara', 'rakyat', 'uu', 'cipta', 'kerja']",negative
+2022-03-03 04:05:39,"['kepal', 'kawal', 'putus', 'mk', 'uji', 'formil', 'uu', 'cipta', 'kerja']",positive
+2022-03-03 03:17:07,"['sikap', 'populer', 'zulhas', 'ekspos', 'tunda', 'milu', 'buah', 'hasil', 'untung', 'awal', 'demokrasi', 'bukti', 'rencana', 'mentah', 'tolak', 'uunya', 'nyelonong', 'uu', 'cipta', 'kerja', 'ikn']",negative
+2022-03-03 03:13:23,"['ekspos', 'pan', 'pkb', 'bangkit', 'lawan', 'paksa', 'partai', 'tolak', 'tunda', 'milu', 'ekspos', 'uu', 'tunda', 'milu', 'jalan', 'lancar', 'uu', 'cipta', 'kerja', 'uu', 'ikn', 'terkadang', 'sikap', 'populer', 'juang']",negative
+2022-03-03 03:00:04,"['terlu', 'pojok', 'ambil', 'langkah', 'populer', 'uu', 'tunda', 'milu', 'nyelonong', 'uu', 'cipta', 'kerja', 'politik', 'penuh', 'trik', 'ujung', 'kali', 'ujung', 'uu', 'tunda', 'milu', 'gagal', 'salut']",negative
+2022-03-03 02:56:50,"['alhamdulillah', 'lang', 'ambil', 'populer', 'dukung', 'buka', 'publik', 'paham', 'rencana', 'buruk', 'partai', 'partai', 'main', 'uu', 'tunda', 'milu', 'uu', 'cipta', 'kerja']",negative
+2022-03-02 22:24:07,"['alihalih', 'ubah', 'uu', 'cipta', 'kerja', 'nyata', 'inkonstitusional', 'syarat', 'mk', 'dpr', 'revisi', 'uu', 'bentuk']",negative
+2022-03-02 21:58:07,"['usul', 'revisi', 'uu', 'bentuk', 'atur', 'perundangundangan', 'tuju', 'akomodasi', 'ada', 'uu', 'cipta', 'kerja']",positive
+2022-03-02 21:57:52,"['dpr', 'gelar', 'konsultasi', 'akademis', 'kota', 'revisi', 'uu', 'ppp', 'bentuk', 'atur', 'perundangundangan']",positive
+2022-03-02 16:17:54,"['industrial', 'policy', 'udah', 'bahas', 'tulis']",positive
+2022-03-02 15:11:33,"['fakta', 'perintah', 'ubah', 'politik', 'pangan', 'revisi', 'undangundang', 'pangan', 'uu', 'cipta', 'kerja']",positive
+2022-03-02 14:34:44,"['letup', 'partai', 'uu', 'tunda', 'milu', 'nongol', 'rem', 'kayak', 'uu', 'cipta', 'kerja', 'ikn']",negative
+2022-03-02 14:12:09,"['biar', 'main', 'parlemen', 'lolos', 'lolos', 'uu', 'cipta', 'kerja', 'uu', 'ikn', 'jeda', 'usul', 'tunda', 'milu', 'partai', 'koalisi', 'paksa', 'pilih', 'taruh', 'citra', 'patuh', 'perintah']",negative
+2022-03-02 14:01:31,"['tindak', 'pidana', 'uu', 'ketenagakerjaan', 'uu', 'cipta', 'kerja', 'usaha', 'larang', 'bayar', 'upah', 'upah', 'minimum', 'tetap']",negative
+2022-03-02 13:59:24,"['tunggu', 'tri', 'bikin', 'manuver', 'alih', 'isu', 'kaya', 'kali', 'lihat', 'rakyat', 'buruh', 'hela', 'nafas', 'sebentar', 'kemarin', 'atur', 'sangon', 'uu', 'cipta', 'kerja', 'dizolimi', 'puas', 'kali']",negative
+2022-03-02 13:53:08,"['bikin', 'manuver', 'kuasa', 'kali', 'lihat', 'rakyat', 'buruh', 'hela', 'nafas', 'sebentar', 'kemarin', 'atur', 'sangon', 'uu', 'cipta', 'kerja', 'dizolimi', 'puas']",negative
+2022-03-02 13:44:43,"['tuju', 'pindah', 'bikin', 'uu', 'bener', 'perintah', 'dpr', 'ajar', 'uu', 'cipta', 'kerja', 'paham', 'draft', 'ruu', 'kaya', 'peduli']",negative
+2022-03-02 12:49:56,"['uu', 'cipta', 'kerja', 'bentuk', 'ekosistem', 'industri', 'ramah', 'kondusitf', 'imbang', 'market', 'labour']",positive
+2022-03-02 12:15:54,"['sikap', 'uu', 'cipta', 'kerja', 'biar', 'tanda', 'tangan', 'jurus', 'cari', 'aman', 'lancar', 'nih', 'jokowi', 'uu', 'sarat', 'polemik', 'penting', 'belepotan', 'tangan', 'wajar', 'sama', 'tunda', 'milu', 'salah', 'dian']",negative
+2022-03-02 11:53:16,"['uu', 'cipta', 'kerja', 'lindung', 'bisnis', 'kelompok', 'elit', 'oligarki', 'substansi', 'pasal', 'sektor', 'tambang', 'energi', 'yah', 'uu', 'cipta', 'kerja']",negative
+2022-03-02 11:45:22,"['dio', 'regulasi', 'hambat', 'coba', 'benah', 'uu', 'cipta', 'kerja', 'bahas', 'jokowi', 'banyak', 'regulasi', 'coba', 'ikut', 'protes', 'uu', 'cipta', 'kerja']",negative
+2022-03-02 11:35:00,"['regulasi', 'uu', 'cipta', 'kerja', 'bantu', 'mudah', 'doang', 'mah', 'bahas', 'lpdp', 'bubar', 'bahas', 'networking', 'cari', 'investor', 'diskusi', 'sedia', 'perintah', 'regulasi']",negative
+2022-03-02 11:24:25,"['bijak', 'pegang', 'zaman', 'uu', 'cipta', 'kerja', 'batal']",negative
+2022-03-02 11:24:17,"['industrial', 'policy', 'udah', 'bahas', 'tulis']",positive
+2022-03-02 11:14:31,"['ramdani', 'bikin', 'uu', 'cipta', 'kerja', 'uu', 'cipta', 'kerja', 'investasi', 'perintah', 'sektor', 'industri', 'liat', 'investasi', 'sektor', 'industri', 'kuat', 'negara']",negative
+2022-03-02 11:00:38,"['iya', 'dalang', 'ngaku', 'jenderal', 'berani', 'ngomong', 'terang', 'prakasa', 'uu', 'cipta', 'kerja', 'dimanamana']",negative
+2022-03-02 10:41:50,"['fakta', 'perintah', 'ubah', 'politik', 'pangan', 'revisi', 'undangundang', 'pangan', 'uu', 'cipta', 'kerja', 'tempat', 'impor', 'strategi', 'tahan', 'pangan', 'pilih', 'sedia', 'pangan', 'pasok', 'lokal']",positive
+2022-03-02 09:23:51,"['jalan', 'perintah', 'joko', 'widodo', 'maruf', 'amin', 'praktik', 'otoritarianisme', 'hina', 'konstitusi', 'kerapkali', 'proses', 'paksa', 'uu', 'kpk', 'uu', 'minerba', 'uu', 'cipta', 'kerja', 'paksa', 'pindah', 'ikn', 'bahaya', 'hidup', 'rakyat']",negative
+2022-03-02 08:59:18,"['silah', 'liat', 'negara', 'kasih', 'sinyal', 'publik', 'industrialisasi', 'uu', 'cipta', 'kerja', 'investasi', 'perintah', 'sektor', 'industri', 'terima', 'sinyal', 'industrialisasi']",negative
+2022-03-02 06:33:19,"['gantung', 'impor', 'era', 'jokowi', 'hebat', 'liberalisasi', 'impor', 'buruk']",negative
+2022-03-02 06:25:19,"['narasi', 'swasembada', 'jokowi', 'panggang', 'api', 'perintah', 'kesah', 'undangundang', 'cipta', 'kerja', 'ciptaker', 'oktober', 'uu', 'ganti', 'radikal', 'frasa', 'daulat', 'pangan', 'uu', 'nomor', 'pangan']",negative
+2022-03-02 05:31:58,"['uu', 'cipta', 'kerja', 'harap', 'dorong', 'masuk', 'investasi', 'kualitas', 'dampak', 'serap', 'tenaga', 'kerja', 'tingkat', 'tumbuh', 'ekonomi']",positive
+2022-03-02 04:29:07,"['acu', 'hasil', 'survei', 'the', 'economist', 'intelligence', 'unit', 'eiu', 'skor', 'ratarata', 'indeks', 'demokrasi']",positive
+2022-03-02 03:59:52,"['lawan', 'omnibus', 'law', 'uu', 'cipta', 'kerja', 'gelora', 'bukti', 'beleid', 'reduksi', 'paksa', 'undang', 'investor', 'abalabal', 'indah', 'fatamorgana']",negative
+2022-03-02 03:30:00,"['acu', 'hasil', 'survei', 'the', 'economist', 'intelligence', 'unit', 'eiu', 'skor', 'ratarata', 'indeks', 'demokrasi', 'tingkat', 'sumbangsih', 'putus', 'mk', 'uji', 'formil', 'uu', 'cipta', 'kerja', 'ks']",positive
+2022-03-02 03:08:43,"['mk', 'oligarki', 'kabul', 'gugat', 'olah', 'mk', 'revisi', 'uu', 'kpk', 'cipta', 'kerja', 'presidential', 'threshold', 'lolos', 'bubar', 'mk']",negative
+2022-03-02 02:42:05,"['uu', 'cipta', 'kerja', 'lindung', 'bisnis', 'kelompok', 'elit', 'oligarki', 'substansi', 'pasal', 'sektor', 'tambang', 'energi', 'uu', 'cipta', 'kerja', 'untung', 'bisnis', 'afiliasi', 'elit', 'politik', 'up']",negative
+2022-03-02 02:17:33,"['aku', 'omnibus', 'law', 'uu', 'cipta', 'kerja', 'gagal', 'penuh', 'janji', 'ekonomi', 'roket']",negative
+2022-03-02 00:42:17,"['uu', 'cipta', 'kerja', 'langsung', 'dukung', 'ubah', 'ekonomi', 'lanjut']",positive
+2022-03-01 17:35:43,"['manfaat', 'uu', 'cipta', 'kerja']",positive
+2022-03-01 15:25:28,"['mhd', 'uu', 'menaker', 'jht', 'inkonstitusional', 'uu', 'cipta', 'kerja', 'inkonstitusional']",negative
+2022-03-01 15:25:21,"['bicara', 'demokrasi', 'produk', 'demokrasi', 'bikin', 'geli', 'bicara', 'koalisi', 'gemuk', 'mrs', 'menang', 'koalisi', 'menang', 'uu', 'cipta', 'kerja', 'tolak', 'baca', 'pasal', 'demo', 'terima', 'kompres', 'air', 'es', 'biar', 'adem', 'mas', 'bro']",negative
+2022-03-01 14:18:35,"['aha', 'hatrik', 'pandora', 'uu', 'cipta', 'kerja', 'tunda', 'milu']",negative
+2022-03-01 13:00:01,"['kontroversi', 'laku', 'uu', 'cipta', 'kerja', 'pasca', 'nyata', 'inkonstitusional', 'mk', 'kait', 'tetap', 'sesuai', 'ump', 'dki', 'jakarta', 'analisis', 'dasar', 'legal', 'aspect']",negative
+2022-03-01 12:52:30,"['kontroversi', 'laku', 'uu', 'cipta', 'kerja', 'pasca', 'putus', 'mk']",negative
+2022-03-01 12:51:16,"['kontroversi', 'laku', 'uu', 'cipta', 'kerja', 'pasca', 'putus', 'mk', 'ii']",negative
+2022-03-01 12:23:59,"['uu', 'nomor', 'cipta', 'kerja', 'tingkat', 'lindung', 'sejahtera', 'kerja']",positive
+2022-03-01 09:25:46,"['yg', 'sakit', 'kerja', 'kecuali', 'laku', 'uu', 'cipta', 'kerja', 'nyata', 'inkonstitusional', 'bersyarakat', 'ma', 'cetus', 'uu', 'gerilya', 'kampus', 'cari', 'dukung', 'coba', 'uunya', 'masalah', 'rugi', 'kerja']",negative
+2022-03-01 08:08:33,"['ingat', 'nyata', 'anggota', 'pdip', 'ripka', 'djiptaning', 'tolak', 'uu', 'cipta', 'kerja', 'cuman', 'gimmick', 'doank', 'pdip', 'tuju']",negative
+2022-03-01 06:23:45,"['uu', 'cipta', 'kerja', 'sempurna', 'jamin', 'investasi', 'lindung', 'tenaga', 'kerja']",positive
+2022-03-01 05:04:12,"['uu', 'cipta', 'kerja', 'rakyat', 'tolak', 'demonstrasi', 'dor', 'nyawa', 'layang', 'dagel', 'kerja', 'cuybikin', 'muak', 'aja']",negative
+2021-09-04 19:10:37,"['kartikaa', 'uu', 'cipta', 'kerja', 'alat', 'rampok', 'sumber', 'sumber', 'agraria', 'uupa', 'ingkar', 'september', 'mari', 'janji']",negative
+2021-09-04 15:37:19,"['hukum', 'salah', 'kaprahuu', 'ite', 'ganti', 'uu', 'subversi', 'era', 'orbatahun', 'rezim', 'ngebut', 'nuntaskan', 'prolegnas', 'tersebutsama', 'hal', 'uu', 'cipta', 'kerja', 'penting', 'tin', 'pakai', 'cuan', 'cukongmakanya', 'cepat', 'ketok', 'cepat']",negative
+2021-09-04 08:12:27,"['pasca', 'terbit', 'uu', 'no', 'cipta', 'kerja', 'uuck', 'cepat', 'bangun', 'mudah', 'izin']",positive
+2021-09-04 08:10:59,"['pasca', 'terbit', 'uu', 'no', 'cipta', 'kerja', 'uuck', 'cepat', 'bangun', 'mudah', 'izin', 'usaha', 'tata', 'ruang', 'anggap', 'panglima', 'dalam', 'amanat', 'integrasi', 'tata', 'ruang', 'rencana', 'zonasi', 'kawasan', 'lainlain']",positive
+2021-09-03 23:53:17,"['mah', 'pki', 'doang', 'gera', 'kiri', 'tolak', 'uu', 'cipta', 'kerja', 'hollaback', 'jakarta', 'jakarta', 'feminist']",negative
+2021-09-03 22:53:50,"['buat', 'ss', 'langgar', 'pasal', 'jo', 'pasal', 'ayat', 'undangundang', 'uu', 'nomor', 'tentu', 'tata', 'paja', 'kali', 'ubah', 'uu', 'nomor', 'cipta', 'kerja']",negative
+2021-09-03 17:38:38,"['ajar', 'dr', 'alam', 'uu', 'cipta', 'kerjauu', 'kpk', 'bahas', 'senyap', 'lolos', 'ruu', 'hip', 'gol', 'jg', 'untung', 'cepat', 'tau', 'gagal', 'skrg', 'mo', 'ulang', 'lg', 'dgn', 'issu', 'amandemen', 'uud', 'waspada', 'periode', 'gol']",negative
+2021-09-03 17:30:01,"['uu', 'cipta', 'kerja', 'alat', 'rampok', 'sumber', 'agraria', 'uupa', 'ingkar', 'sept', 'mari', 'janji', 'abadi', 'selamat', 'tanahair']",negative
+2021-09-03 13:00:05,"['gunawan', 'uuck', 'cipta', 'kerja', 'tani', 'nelayan', 'uuck', 'rubah', 'uu', 'kait', 'tani', 'nelayan']",negative
+2021-09-03 12:47:31,"['uuck', 'cipta', 'kerja', 'tani', 'nelayan', 'uuck', 'rubah', 'uu', 'kait', 'tani', 'nelayan', 'mohon', 'libat', 'bahas', 'diskriminasi']",negative
+2021-09-03 11:03:38,"['lahmemang', 'biasa', 'rezim', 'tau', 'tau', 'gol', 'tuh', 'uu', 'cipta', 'kerja', 'uu', 'kpk', 'pd', 'waspada', 'implementasi', 'kemudi', 'gub', 'dki', 'pikir', 'capres', 'capresan', 'tau', 'nyapres', 'sungguh']",negative
+2021-09-03 10:51:50,"['piliang', 'uu', 'cipta', 'kerja', 'kerja', 'sah', 'gugat', 'mk', 'basi', 'muka', 'lugu', 'nipu']",negative
+2021-09-03 10:48:44,"['uu', 'cipta', 'kerja', 'jembatan', 'program', 'mitigasi', 'reformasi', 'struktural', 'jangka']",positive
+2021-09-03 10:48:40,"['hrt', 'dorong', 'reformasi', 'struktural', 'uu', 'cipta', 'kerja', 'terobos', 'reformasi']",positive
+2021-09-03 07:13:35,"['uu', 'cipta', 'kerja', 'langsung', 'dukung', 'ubah', 'ekonomi', 'lanjut']",positive
+2021-09-03 04:55:19,"['embara', 'uu', 'cipta', 'kerja', 'jembatan', 'program', 'mitigasi', 'reformasi', 'struktural', 'jangka']",positive
+2021-09-03 04:55:12,"['embara', 'hrt', 'dorong', 'reformasi', 'struktural', 'uu', 'cipta', 'kerja', 'terobos', 'reformasi', 'bidang']",positive
+2021-09-03 04:34:57,"['uu', 'cipta', 'kerja', 'jembatan', 'program', 'mitigasi', 'reformasi', 'struktural', 'jangka', 'bijak', 'optimisme', 'pulih', 'ekonomi', 'lanjut']",positive
+2021-09-03 04:34:57,"['hrt', 'dorong', 'reformasi', 'struktural', 'uu', 'cipta', 'kerja', 'terobos', 'reformasi', 'bidang', 'investasi', 'dagang', 'dorong', 'cipta', 'lapang', 'kerja']",positive
+2021-09-03 03:53:16,"['izin', 'usaha', 'hsa', 'mantan', 'kepala', 'daerah', 'brarti', 'uu', 'cipta', 'kerja', 'digembargemborkan']",positive
+2021-09-03 03:52:01,"['izin', 'usaha', 'hsa', 'mantan', 'kepala', 'daerah', 'brarti', 'uu', 'cipta', 'kerja', 'digembargemborkan', 'perintah', 'pusat', 'laku', 'probolinggo']",negative
+2021-09-03 02:10:26,"['uu', 'cipta', 'kerja', 'cepat', 'program', 'pulih', 'ekonomi', 'nasional']",positive
+2021-09-03 02:10:23,"['uu', 'cipta', 'kerja', 'cepat', 'pulih', 'ekonomi']",positive
+2021-09-03 02:10:19,"['uu', 'cipta', 'kerja', 'damping', 'lindung', 'umkm']",positive
+2021-09-03 01:51:05,"['uu', 'cipta', 'kerja', 'terbit', 'reformasi', 'izin', 'usaha', 'wujud', 'mudah']",positive
+2021-09-02 23:07:26,"['hc', 'gera', 'draft', 'susah', 'batal', 'tolak', 'lupa', 'uu', 'cipta', 'kerja', 'uu', 'revisi', 'kpk', 'batal']",negative
+2021-09-02 23:01:57,"['bukti', 'niat', 'amandemen', 'gera', 'mahasiswa', 'rakyat', 'ubah', 'disahkankarena', 'draft', 'sempat', 'sidang', 'hal', 'uu', 'cipta', 'kerja', 'kpk', 'susah', 'ngebatalinnya']",negative
+2021-09-02 21:37:49,"['juta', 'juta', 'beda', 'uu', 'cipta', 'kerjakok', 'aneh']",negative
+2021-09-02 21:22:54,"['uu', 'cipta', 'kerja', 'ramah', 'lingkung']",positive
+2021-09-02 17:56:29,"['manfaat', 'uu', 'cipta', 'kerja', 'nyata', 'rasa']",positive
+2021-09-02 17:56:29,"['putus', 'rezim', 'gak', 'bilang', 'tolol', 'tetap', 'sangon', 'wamen']",negative
+2021-09-02 17:55:06,"['putus', 'rezim', 'bilang', 'tolol', 'tetap', 'sangon', 'wamen', 'juta', 'banding', 'balik', 'putus', 'uu', 'cipta', 'kerja', 'tetap', 'sangon', 'karyawan', 'kerja', 'gaji', 'uu', 'gaji']",negative
+2021-09-02 17:54:34,"['uu', 'cipta', 'kerja', 'mudah', 'usaha']",positive
+2021-09-02 17:50:29,"['uu', 'cipta', 'kerja', 'atur', 'amdal']",positive
+2021-09-02 15:13:05,"['uu', 'cipta', 'kerja', 'dukung', 'maju', 'ekonomi', 'basis', 'lestari', 'lingkung', 'pulih', 'nusantara']",positive
+2021-09-02 15:13:04,"['khawatir', 'pecat', 'haji', 'khawatir', 'pecat', 'hamil', 'lahir', 'susu', 'bayi', 'diphk', 'sakit', 'tenang', 'gak', 'khawatir', 'uu', 'cipta', 'kerja', 'lindung', 'kerja', 'ibadah', 'kerja', 'perempuan', 'pulih', 'nusantara']",positive
+2021-09-02 15:13:02,"['umkm', 'bantu', 'perintah', 'berkat', 'uu', 'cipta', 'kerja', 'pulih', 'nusantara']",positive
+2021-09-02 14:04:56,"['asing', 'upaya', 'mandiri', 'ekonomi', 'hancur', 'asing', 'sedot', 'minyak', 'batubara', 'sedot', 'nikel', 'bahan', 'baku', 'utama', 'baterai', 'listrik']",negative
+2021-09-02 13:06:46,"['arifs', 'ri', 'uu', 'rakyat', 'contoh', 'uu', 'cipta', 'kerja', 'sempat', 'alam', 'kerja', 'alih', 'teknologi', 'tingkat', 'kualitas', 'sdm', 'ri', 'teori', 'kadrunisme', 'paham', 'hancur', 'negaranegara', 'arab', 'spring']",negative
+2021-09-02 10:13:19,"['uu', 'cipta', 'kerja', 'dukung', 'pemuda', 'usaha']",positive
+2021-09-02 05:50:23,"['kspi', 'bengkulu', 'gerak', 'juang', 'batal', 'uu', 'cipta', 'kerja', 'omnibus', 'law', 'awal', 'jalan']",negative
+2021-09-02 05:50:15,"['kspi', 'batam', 'gerak', 'juang', 'batal', 'uu', 'cipta', 'kerja', 'omnibus', 'law', 'awal', 'jalan']",negative
+2021-09-02 05:37:13,"['kspi', 'dki', 'jakarta', 'gerak', 'juang', 'batal', 'uu', 'cipta', 'kerja', 'omnibus', 'law', 'awal', 'jalan']",negative
+2021-09-02 05:28:43,"['gelora', 'trus', 'tolak', 'uu', 'cipta', 'kerja']",negative
+2021-09-02 05:20:05,"['kspi', 'dki', 'jakarta', 'gerak', 'juang', 'batal', 'uu', 'cipta', 'kerja', 'omnibus', 'law', 'awal', 'jalan']",negative
+2021-09-02 05:19:54,"['dki', 'jakarta', 'gerak', 'juang', 'batal', 'uu', 'cipta', 'kerja', 'omnibus', 'law', 'awal', 'jalan', 'sidang', 'uji', 'materi', 'mahkamah', 'konstitusi']",negative
+2021-09-02 05:10:25,"['batam', 'gerak', 'juang', 'batal', 'uu', 'cipta', 'kerja', 'omnibus', 'law', 'awal', 'jalan', 'sidang', 'uji', 'materi', 'mahkamah', 'konstitusi']",negative
+2021-09-02 05:04:52,"['bengkulu', 'gerak', 'juang', 'batal', 'uu', 'cipta', 'kerja', 'omnibus', 'law', 'awal', 'jalan', 'sidang', 'uji', 'materi', 'mahkamah', 'konstitusi']",negative
+2021-09-02 05:04:44,"['kspi', 'jakarta', 'gerak', 'juang', 'batal', 'uu', 'cipta', 'kerja', 'omnibus', 'law', 'awal', 'jalan']",negative
+2021-09-02 05:04:36,"['kspi', 'jakarta', 'gerak', 'juang', 'batal', 'uu', 'cipta', 'kerja', 'omnibus', 'law', 'awal', 'jalan']",negative
+2021-09-02 05:04:17,"['jakarta', 'gerak', 'juang', 'batal', 'uu', 'cipta', 'kerja', 'omnibus', 'law', 'awal', 'jalan', 'sidang', 'uji', 'materi', 'mahkamah', 'konstitusi']",negative
+2021-09-02 05:03:21,"['jakarta', 'gerak', 'juang', 'batal', 'uu', 'cipta', 'kerja', 'omnibus', 'law', 'awal', 'jalan', 'sidang', 'uji', 'materi', 'mahkamah', 'konstitusi']",negative
+2021-09-02 04:54:52,"['kspi', 'bandung', 'barat', 'gerak', 'juang', 'batal', 'uu', 'cipta', 'kerja', 'omnibus', 'law', 'awal', 'jalan']",negative
+2021-09-02 04:54:29,"['bandung', 'barat', 'gerak', 'juang', 'batal', 'uu', 'cipta', 'kerja', 'omnibus', 'law', 'awal', 'jalan', 'sidang', 'uji', 'materi', 'mahkamah', 'konstitusi']",negative
+2021-09-02 04:51:26,"['kspi', 'cileungsi', 'gerak', 'juang', 'batal', 'uu', 'cipta', 'kerja', 'omnibus', 'law', 'awal', 'jalan']",negative
+2021-09-02 04:46:37,"['kspi', 'cileungsi', 'bogor', 'gerak', 'juang', 'batal', 'uu', 'cipta', 'kerja', 'omnibus', 'law']",negative
+2021-09-02 04:46:25,"['cileungsi', 'gerak', 'juang', 'batal', 'uu', 'cipta', 'kerja', 'omnibus', 'law', 'awal', 'jalan', 'sidang', 'uji', 'materi', 'mahkamah', 'konstitusi']",negative
+2021-09-02 04:45:20,"['cileungsi', 'bogor', 'gerak', 'juang', 'batal', 'uu', 'cipta', 'kerja', 'omnibus', 'law', 'awal', 'jalan', 'sidang', 'uji', 'materi', 'mahkamah', 'konstitusi']",negative
+2021-09-02 02:53:40,"['transformasi', 'digital', 'infrastruktur', 'internet', 'pusat', 'data', 'nasional', 'sumber', 'daya', 'manusia', 'kuat', 'ekosistem', 'ekonomi', 'digital']",positive
+2021-09-02 02:50:27,"['lingkup', 'regulasi', 'produk', 'hasil', 'dpr', 'kerap', 'kali', 'tolak', 'butuh', 'masyarakat', 'akan', 'nihil', 'aspek', 'berantas', 'korupsi', 'poin', 'rujuk', 'kesah', 'uu', 'minerba', 'uu', 'cipta', 'kerja', 'bobrok']",negative
+2021-09-02 02:50:00,"['transformasi', 'digital', 'infrastruktur', 'internet', 'pusat', 'data', 'nasional', 'sumber', 'daya', 'manusia', 'kuat', 'ekosistem', 'ekonomi', 'digital', 'ruu', 'pdp', 'uu', 'cipta', 'kerja']",positive
+2021-09-02 02:30:00,"['uu', 'cipta', 'kerja', 'sektor', 'pos', 'telekomunikasi', 'siar', 'postelsiar', 'buka', 'ruang', 'luas', 'kembang', 'maju', 'inovasiinovasi', 'pasti', 'transformasi', 'digital']",positive
+2021-09-02 02:07:49,"['incremental', 'capital', 'output', 'ratio', 'icor', 'angka', 'tinggi', 'kawasan', 'perintah', 'harap', 'laksana', 'uu', 'cipta', 'kerja', 'baik', 'sektor']",positive
+2021-09-02 02:05:40,"['prioritas', 'cepat', 'transformasi', 'digital', 'nasinal', 'infrastruktur', 'internet', 'pusat', 'data', 'nasional', 'sdm']",positive
+2021-09-02 02:04:18,"['aspek', 'transformasi', 'digital', 'insfratruktur', 'internet', 'pusat', 'data', 'nasional']",positive
+2021-09-02 02:04:05,"['prioritas', 'cepat', 'transformasi', 'digital', 'nasional', 'infrastruktur', 'internet', 'pdn', 'sdm', 'kuat', 'ekosistem']",positive
+2021-09-02 02:03:00,"['prioritas', 'cepat', 'transformasi', 'digital', 'nasinal', 'infrastruktur', 'internet', 'pusat', 'data', 'nasional', 'sdm', 'kuat', 'ekosistem', 'ekonomi', 'digital', 'ruu', 'pdp', 'uu', 'cipta', 'kerja']",positive
+2021-09-02 02:01:13,"['aspek', 'transformasi', 'digital', 'insfratruktur', 'internet', 'pusat', 'data', 'nasional', 'sumber', 'daya', 'manusia', 'kuat', 'ekonsistem', 'ekonomi', 'digital', 'ruu', 'pdp', 'uu', 'cipta', 'kerja']",positive
+2021-09-02 02:01:00,"['prioritas', 'cepat', 'transformasi', 'digital', 'nasional', 'infrastruktur', 'internet', 'pdn', 'sdm', 'kuat', 'ekosistem', 'ekonomi', 'digital', 'ruu', 'pdp', 'uu', 'cipta', 'kerja']",positive
+2021-09-02 02:00:01,"['prioritas', 'transformasi', 'digital', 'infrastruktur', 'internet', 'pusat', 'data', 'nasional', 'sumber', 'daya', 'manusia', 'kuat', 'sistem', 'ekonomi', 'digital', 'ruu', 'pdp', 'uu', 'cipta', 'kerja']",positive
+2021-09-02 01:18:24,"['sial', 'nasib', 'bangsa', 'kalo', 'ri', 'berfikir', 'penting', 'partairezim', 'penting', 'rakyat', 'nomor', 'sekian']",negative
+2021-09-02 00:57:04,"['center', 'bijak', 'tempuh', 'perintah', 'memebrikan', 'dampak', 'pulih', 'ekonomi', 'empat', 'kebiajkan', 'uu', 'cipta', 'kerja', 'omnibus', 'law', 'bentuk', 'deregulasi', 'amandemen', 'uu']",positive
+2021-09-02 00:54:38,"['uu', 'cipta', 'kerja', 'atur', 'laksana', 'masalah', 'ada', 'tanah', 'cek', 'berita', 'lengkap', 'sob', 'repost', 'bpn']",positive
+2021-09-02 00:52:39,"['salah', 'satu', 'undangundang', 'uu', 'nomor', 'cipta', 'kerja', 'tiga', 'ekonomi']",positive
+2021-09-02 00:52:20,"['rp', 'triliun', 'fokus', 'intervensi', 'sehat', 'program', 'lindung', 'sosial', 'dukung', 'umkm', 'program', 'padat', 'karya', 'prioritas', 'perintah', 'komitmen', 'laksana', 'uu', 'cipta', 'kerja', 'serta', 'atur', 'laksana', 'sesuai', 'standar', 'internasional']",positive
+2021-09-02 00:43:16,"['uu', 'cipta', 'kerja', 'omnibus', 'law', 'bentuk', 'deregulasi', 'amandemen', 'uu', 'pasalpasal', 'bawa', 'efisiensi', 'birokrasi', 'mangkas', 'atur', 'kait', 'izin', 'usaha', 'investasi']",positive
+2021-09-02 00:02:13,"['masuk', 'peringkat', 'negara', 'target', 'duduk', 'peringkat', 'dunia', 'mudah', 'usaha']",positive
+2021-09-01 23:14:00,"['uu', 'cipta', 'kerja', 'hilang', 'pungli', 'sistem', 'online']",negative
+2021-09-01 15:44:34,"['wakil', 'buruh', 'gugat', 'undangundang', 'cipta', 'kerja', 'klaster', 'ketenagakerjaan']",negative
+2021-09-01 15:43:09,"['wakil', 'buruh', 'gugat', 'undangundang', 'cipta', 'kerja', 'klaster', 'ketenagakerjaan']",negative
+2021-09-01 15:27:43,"['masuk', 'peringkat', 'negara', 'target', 'duduk', 'peringkat', 'dunia', 'mudah', 'usaha', 'jalan', 'uu', 'cipta', 'kerja', 'sah', 'presiden', 'jokowi', 'lawan', 'pandemi']",positive
+2021-09-01 15:13:44,"['berkat', 'uu', 'cipta', 'kerja', 'peringkat', 'mudah', 'usaha', 'tingkat']",positive
+2021-09-01 14:59:48,"['implementasi', 'uu', 'cipta', 'kerja', 'kanwil', 'kemenkumham', 'ntt', 'dorong', 'tata', 'regulasi', 'analisis', 'evaluasi', 'hukum', 'ri']",positive
+2021-09-01 14:49:23,"['kompetitif', 'urus', 'investasi', 'sah', 'uu', 'cipta', 'kerja', 'mana', 'mudah', 'usaha', 'mudah']",positive
+2021-09-01 14:43:06,"['laku', 'bantu', 'uu', 'cipta', 'kerja']",positive
+2021-09-01 14:13:23,"['uu', 'cipta', 'kerja', 'wujud', 'laku', 'umkm']",positive
+2021-09-01 13:30:00,"['hitung', 'sangon', 'hak', 'kerja', 'bayar', 'usaha', 'informasi', 'lengkap', 'dasar', 'uu', 'cipta', 'kerja', 'nomor']",positive
+2021-09-01 13:26:47,"['berkat', 'uu', 'cipta', 'kerja', 'mudah', 'cepat', 'jokowi', 'pro', 'ekonomi', 'rakyat']",positive
+2021-09-01 13:13:20,"['uu', 'cipta', 'kerja', 'dorong', 'umkm']",positive
+2021-09-01 12:58:18,"['target', 'duduk', 'peringkat', 'dunia', 'mudah', 'usaha', 'jalan', 'uu', 'cipta', 'kerja']",positive
+2021-09-01 12:43:55,"['uu', 'cipta', 'kerja', 'atur', 'laksana', 'masalah', 'ada', 'tanah']",positive
+2021-09-01 12:29:38,"['uu', 'cipta', 'kerja', 'buka', 'lapang', 'kerja', 'seluasluasnya']",positive
+2021-09-01 12:29:29,"['uu', 'cipta', 'kerja', 'tingkat', 'investasi', 'start', 'up']",positive
+2021-09-01 12:29:21,"['uu', 'cipta', 'kerja', 'sehat', 'investasi']",positive
+2021-09-01 12:03:53,"['tahun', 'kesah', 'uu', 'cipta', 'kerja', 'laporanlaporan', 'langgar', 'hakhak', 'ketenagakerjaan']",negative
+2021-09-01 11:36:57,"['target', 'duduk', 'peringkat', 'dunia', 'mudah', 'usaha', 'jalan', 'uu', 'cipta', 'kerja', 'sah', 'presiden']",positive
+2021-09-01 11:12:25,"['uu', 'cipta', 'kerja', 'manufaktur']",positive
+2021-09-01 11:00:00,"['uu', 'cipta', 'kerja', 'mencampuradukkan', 'lindung', 'ketenagakerjaan', 'uu', 'perspektif', 'bisnis', 'alhasil', 'pasal', 'dalam', 'masalah', 'rugi', 'kerja', 'tahun', 'sah', 'kerja', 'lapor']",negative
+2021-09-01 10:43:24,"['uu', 'cipta', 'kerja', 'bantu', 'buruh', 'uu', 'cipta', 'kerja', 'atur', 'laksana', 'masalah', 'ada', 'tanah', 'cek', 'berita', 'lengkap']",positive
+2021-09-01 10:13:27,"['uu', 'cipta', 'kerja', 'maju', 'ekonomi']",positive
+2021-09-01 09:43:10,"['uu', 'cipta', 'kerja', 'mudah', 'mahasiswa', 'rintis', 'usaha']",positive
+2021-09-01 09:13:15,"['uu', 'cipta', 'kerja', 'mudah', 'laku', 'umkm']",positive
+2021-09-01 08:43:16,"['uu', 'cipta', 'kerja', 'untung']",positive
+2021-09-01 08:13:39,"['uu', 'cipta', 'kerja', 'gubernur', 'wajib', 'tetap', 'upah', 'minimun', 'buruh']",positive
+2021-09-01 08:00:26,"['zainut', 'uu', 'cipta', 'kerja', 'atur', 'cepat', 'layan', 'sertifikasi', 'halal', 'fasilitas', 'biaya', 'sertifikasi', 'halal', 'umkm', 'tata', 'wenang', 'peran', 'masyarakat']",positive
+2021-09-01 07:43:09,"['uu', 'cipta', 'kerja', 'sederhana', 'atur']",positive
+2021-09-01 07:13:51,"['uu', 'cipta', 'kerja', 'atur', 'laksana', 'masalah', 'ada', 'tanah', 'cek', 'berita', 'lengkap']",positive
+2021-09-01 06:13:25,"['jam', 'kerja', 'atur', 'uu', 'cipta', 'kerja']",positive
+2021-09-01 05:59:34,"['manajemen', 'bener', 'sih', 'good', 'governace', 'implementasi', 'uu', 'cipta', 'kerja', 'semangat', 'xfxfxxaaxexcxcxefxbxf']",positive
+2021-09-01 05:13:36,"['uu', 'cipta', 'kerja', 'mudah', 'izin']",positive
+2021-09-01 04:49:05,"['bpn', 'uu', 'cipta', 'kerja', 'atur', 'laksana', 'masalah', 'ada', 'tanah', 'cek']",positive
+2021-09-01 04:47:52,"['uu', 'cipta', 'kerja', 'atur', 'laksana', 'masalah', 'ada', 'tanah', 'cek', 'berita', 'lengkap']",positive
+2021-09-01 04:43:07,"['uu', 'cipta', 'kerja', 'sederhana', 'dalamm', 'izin']",positive
+2021-09-01 04:00:00,"['tahun', 'kesah', 'uu', 'cipta', 'kerja', 'laporanlaporan', 'langgar', 'hakhak', 'ketenagakerjaan', 'sejahtera', 'buruh', 'karyawan', 'rentan', 'kena', 'phk', 'kontrak', 'kerja']",negative
+2021-09-01 03:57:08,"['wamendag', 'sebut', 'uu', 'cipta', 'kerja', 'umkm', 'keluar', 'urus', 'sertifikasi', 'halal']",positive
+2021-09-01 03:43:27,"['uu', 'cipta', 'kerja', 'ringan', 'beban', 'laku', 'umkm']",positive
+2021-09-01 03:13:23,"['wujud', 'mimpi', 'buruh', 'uu', 'cipta', 'kerja']",positive
+2021-09-01 02:43:27,"['uu', 'cipta', 'kerja', 'bangkit', 'ekonomi', 'bangsa']",positive
+2021-09-01 01:13:49,"['rugi', 'ko', 'uu', 'cipta', 'kerja']",positive
+2021-09-01 00:43:01,"['sial', 'nasib', 'bangsa', 'kalo', 'ri', 'berfikir', 'penting', 'partai', 'rezim', 'penting', 'rakyat', 'nomor', 'sekian', 'bukti', 'uu', 'cipta', 'kerja']",negative
+2021-09-01 00:13:15,"['uu', 'cipta', 'kerja', 'tetap', 'jam', 'kerja', 'rancang', 'untung', 'buruh']",positive
+2021-08-31 23:43:05,"['uu', 'cipta', 'kerja', 'sederhana', 'atur']",positive
+2021-08-31 22:55:07,"['bangkang', 'sipil', 'radikal', 'argumentasi', 'lawan', 'uu', 'cipta', 'kerja', 'negara', 'kapitalis', 'gerak']",negative
+2021-08-31 22:38:29,"['uu', 'cipta', 'kerja', 'buka', 'peluang', 'buka', 'usaha', 'luas', 'rata']",positive
+2021-08-31 21:10:39,"['manfaat', 'uu', 'cipta', 'kerja']",positive
+2021-08-31 15:44:07,"['nasional', 'pcpen', 'reformasi', 'struktural', 'terap', 'uu', 'cipta', 'kerja', 'suhasil', 'wakil', 'menteri', 'uang', 'republik', 'intervensi', 'sehat', 'anggar', 'fleksibel', 'reformasi', 'struktural', 'faktor', 'utama', 'bijak', 'pulih', 'ekonomi']",positive
+2021-08-31 14:14:18,"['uu', 'cipta', 'kerja', 'mudah', 'izin', 'buka', 'usaha']",positive
+2021-08-31 13:48:41,"['resmi', 'ina', 'jokowi', 'presiden', 'ri', 'harap', 'kejar', 'tinggal', 'oleh', 'percaya', 'nasional', 'internasional', 'ina', 'dasar', 'hukum', 'kuat', 'atur', 'uu', 'cipta', 'kerja', 'milik', 'lembaga']",positive
+2021-08-31 13:43:21,"['uu', 'cipta', 'kerja', 'bantu', 'laku', 'umkm', 'tengah']",positive
+2021-08-31 13:23:15,"['bijak', 'sengsara', 'tani', 'masif', 'jalan', 'uu', 'cipta', 'kerja', 'mudah', 'luas', 'import']",negative
+2021-08-31 13:13:26,"['ayo', 'bangkit', 'ekonomi', 'dukung', 'uu', 'cipta', 'kerja']",positive
+2021-08-31 13:02:13,"['strategi', 'jangka', 'naik', 'kelas', 'umkm', 'uu', 'cipta', 'kerja', 'dampak', 'pandemi', 'dorong', 'shifting', 'pola', 'konsumsi', 'barang', 'jasa', 'offline', 'online', 'naik', 'trafik', 'internet', 'kisar']",positive
+2021-08-31 12:43:06,"['sih', 'masyarakat', 'tolak', 'uu', 'cipta', 'kerja', 'maju']",negative
+2021-08-31 12:12:16,"['uu', 'cipta', 'kerja', 'mudah', 'susah']",positive
+2021-08-31 11:43:22,"['uu', 'cipta', 'kerja', 'hilang', 'pungli', 'sistem', 'online']",positive
+2021-08-31 11:13:48,"['sahabat', 'dumai', 'tau', 'sah', 'uu', 'cipta', 'kerja', 'investasi', 'masuk', 'lapang', 'kerja', 'buka', 'lebar']",positive
+2021-08-31 11:09:32,"['kuasa', 'korporasi', 'kian', 'lampau', 'kuasa', 'negara', 'negara', 'kian', 'tunduk', 'kaki', 'korporasi', 'telanjang']",negative
+2021-08-31 11:01:16,"['amat', 'semangat', 'mudah', 'izin', 'usaha', 'uu', 'cipta', 'kerja', 'bareng', 'prinsip', 'kehatihatian']",negative
+2021-08-31 10:56:13,"['semangat', 'mudah', 'izin', 'usaha', 'uu', 'cipta', 'kerja', 'bareng', 'prinsip', 'kehatihatian', 'kelola', 'lingkung', 'awas']",negative
+2021-08-31 10:40:50,"['kuasa', 'korporasi', 'kian', 'lampau', 'kuasa', 'negara', 'negara', 'kian', 'tunduk', 'kaki', 'korporasi', 'telanjang', 'uu', 'cipta', 'kerja', 'kuasa', 'korporasi', 'paksa', 'negara', 'atur', 'mudah', 'korporasi', 'rampok', 'sumberdaya', 'negara', 'rakyat', 'hukum', 'pidana']",negative
+2021-08-31 09:13:26,"['uu', 'cipta', 'kerja', 'tingkat', 'investasi', 'serap', 'tenaga', 'kerja']",positive
+2021-08-31 09:10:05,"['sambut', 'ketua', 'dpr', 'ri', 'puan', 'maharani', 'bangga', 'capai', 'kesah', 'ruu', 'cipta', 'kerja']",positive
+2021-08-31 08:43:08,"['lapang', 'kerja', 'butuh', 'uu', 'cipta', 'kerja', 'cipta', 'lapang', 'kerja']",positive
+2021-08-31 08:13:36,"['mudah', 'usaha', 'uu', 'cipta', 'kerja', 'mudah', 'masuk', 'investor', 'cipta', 'lapang', 'kerja']",positive
+2021-08-31 07:13:20,"['uu', 'cipta', 'kerja', 'tantang', 'ekonomi']",positive
+2021-08-31 07:10:23,"['erasmus', 'cahyadi', 'aman', 'uu', 'cipta', 'kerja', 'kuat', 'legitimasi', 'ampas', 'wilayah', 'adat', 'hilang', 'wilayah', 'adat', 'akibat']",positive
+2021-08-31 07:09:21,"['uu', 'cipta', 'kerja', 'peduli', 'lestari', 'lingkung', 'disiplin', 'protokol', 'sehat']",positive
+2021-08-31 07:09:20,"['uu', 'cipta', 'kerja', 'damping', 'lindung', 'umkm', 'disiplin', 'protokol', 'sehat']",positive
+2021-08-31 07:05:27,"['ancam', 'produk', 'impor', 'upah', 'tani', 'hadap', 'produk', 'impor', 'milik', 'daya', 'saing', 'said', 'ancam', 'produk', 'impor', 'nyata', 'hadir', 'undangundang', 'uu', 'nomor', 'cipta', 'kerja']",negative
+2021-08-31 07:00:19,"['dukung', 'umkm', 'cantum', 'atur', 'laksana', 'uu', 'cipta', 'kerja', 'atur', 'perintah', 'no', 'dukung', 'perintah', 'umkm', 'bukti', 'nyata', 'umkm', 'sektor', 'vital', 'tumbuh', 'ekonomi']",positive
+2021-08-31 06:57:33,"['sebab', 'miskin', 'rusa', 'lingkung', 'hidup', 'uu', 'cipta', 'kerja', 'jauh', 'masyarakat', 'adat', 'dr', 'prosesproses', 'ambil', 'putus', 'krn', 'uu', 'atur', 'prosesproses', 'perijinan', 'sentralistik', 'hapus', 'wenang', 'perintah', 'daerah']",negative
+2021-08-31 06:57:33,"['erasmus', 'cahyadi', 'aman', 'uu', 'cipta', 'kerja', 'kuat', 'legitimasi', 'ampas', 'wilayah', 'adat', 'hilang', 'wilayah', 'adat', 'akibat', 'lemah', 'identitas', 'masyarakat', 'adat', 'wilayah', 'adat', 'arif', 'tradisional', 'hukum', 'adat', 'dsb', 'lahir', 'keras', 'kriminalisasi']",negative
+2021-08-31 05:43:37,"['hadir', 'uu', 'cipta', 'kerja', 'tarik', 'masuk', 'investasi', 'masuk', 'investasi', 'tsb', 'hasil', 'cipta', 'lapang', 'kerja']",positive
+2021-08-31 04:56:29,"['dasar', 'panutan', 'sebut', 'ksp', 'bahas', 'laksana', 'sertifikasi', 'halal', 'implementasi', 'uu', 'cipta', 'kerja']",positive
+2021-08-31 04:04:28,"['selaras', 'perda', 'perbup', 'uu', 'cipta', 'kerja', 'budi', 'program', 'identifikasi', 'solusi']",positive
+2021-08-31 04:00:16,"['tentu', 'migrasi', 'tv', 'digital', 'sah', 'presiden', 'jokowi', 'uu', 'nomor', 'cipta', 'kerja', 'revisi', 'uu', 'nomor', 'siar']",positive
+2021-08-31 03:51:47,"['omongomong', 'migrasi', 'siar', 'tv', 'analog', 'tv', 'digital', 'sesuai', 'amanah', 'uu', 'nomor', 'cipta', 'kerja', 'sukses', 'untung', 'dapat']",positive
+2021-08-31 03:20:49,"['ri', 'power', 'satu', 'rakyat', 'bukti', 'demo', 'omnibuslaw', 'uu', 'cipta', 'kerja', 'revisi', 'uu', 'kpk', 'aja', 'gubris', 'anggap', 'korban', 'luka', 'nyawa', 'tragedi', 'anggap', 'perintah', 'samsek']",negative
+2021-08-31 03:14:06,"['investor', 'mudah', 'nih', 'masuk', 'hapus', 'pajak', 'uu', 'cipta', 'kerja']",positive
+2021-08-31 01:43:39,"['uu', 'cipta', 'kerja', 'upaya', 'reformasi', 'jadi', 'kompetitif', 'dukung', 'aspirasi', 'jangka']",positive
+2021-08-30 22:31:59,"['laku', 'umkm', 'betulbetul', 'manfaat', 'uu', 'cipta', 'kerja']",positive
+2021-08-30 22:29:38,"['uu', 'cipta', 'kerja', 'tutup', 'celah', 'korupsi']",positive
+2021-08-30 21:19:03,"['umkm', 'manfaat', 'uu', 'cipta', 'kerja']",positive
+2021-08-30 21:16:43,"['manfaat', 'uu', 'cipta', 'kerja']",positive
+2021-08-30 13:14:06,"['uu', 'cipta', 'kerja', 'buka', 'usaha', 'izin', 'mudah', 'ribet', 'daftar', 'kertas', 'pungli']",positive
+2021-08-30 12:43:12,"['manfaat', 'tuju', 'uu', 'cipta', 'kerja', 'sejahtera', 'rakyat']",positive
+2021-08-30 12:23:16,"['gugat', 'uu', 'cipta', 'kerja', 'rumus', 'alternatif', 'agenda', 'mutlak', 'gera', 'krisis', 'iklim', 'hukum', 'adala']",negative
+2021-08-30 12:20:18,"['gugat', 'uu', 'cipta', 'kerja', 'rumus', 'alternatif', 'agenda', 'mutlak', 'gera', 'krisis', 'iklim', 'hukum', 'wajah', 'langsung', 'brutalitas', 'kapitalisme', 'hancur', 'ekosistem', 'masyarakat', 'adat', 'milik', 'tahu', 'krusial', 'arti', 'lanjut']",negative
+2021-08-30 10:13:26,"['uu', 'cipta', 'kerja', 'bangsa', 'daya', 'saing', 'global']",positive
+2021-08-30 09:14:19,"['tangan', 'sehat', 'dpr', 'perintah', 'hasil', 'selesai', 'uu', 'cipta', 'kerja']",positive
+2021-08-30 09:13:27,"['uu', 'cipta', 'kerja', 'desain', 'mudah', 'laku', 'usaha', 'urus', 'izin']",positive
+2021-08-30 09:09:16,"['irs', 'kakak', 'demokrasi', 'atur', 'rancang', 'kesah', 'uu', 'cipta', 'kerja', 'legal', 'industri', 'minum', 'alkohol', 'manusia', 'kah', 'cipta', 'manusia', 'kak']",negative
+2021-08-30 08:13:43,"['uu', 'cipta', 'kerja', 'untung', 'kerja', 'laku', 'usaha', 'umkm', 'izin', 'mudah']",positive
+2021-08-30 07:16:35,"['dampak', 'uu', 'cipta', 'kerja', 'investor', 'belanda', 'rebut', 'tanam', 'modal']",positive
+2021-08-30 07:14:03,"['uu', 'cipta', 'kerja', 'dorong', 'umkm', 'masuk', 'digitalisasi', 'regulasi', 'anak', 'muda', 'mudah']",positive
+2021-08-30 06:51:34,"['uu', 'cipta', 'kerja', 'klaim', 'ubah', 'persepsi', 'dunia', 'tanam', 'modal', 'ri']",positive
+2021-08-30 06:49:31,"['cengengesan', 'airlangga', 'kesah', 'uu', 'cipta', 'kerja', 'kontroversi', 'rakyat', 'demo', 'sah', 'ngadem']",negative
+2021-08-30 06:44:02,"['lulus', 'smk', 'butuh', 'lapang', 'kerja', 'salah', 'tolak', 'uu', 'cipta', 'kerja', 'uu', 'buka', 'lapang', 'kerja']",positive
+2021-08-30 06:34:17,"['inti', 'viral', 'layak', 'manusia', 'manusia', 'uu', 'cipta', 'kerja', 'cantum', 'pulsa', 'bentuk', 'upah']",negative
+2021-08-30 06:12:11,"['uu', 'cipta', 'kerja', 'wujud', 'laku', 'umkm']",positive
+2021-08-30 06:04:13,"['mba', 'ketua', 'ngomong', 'bukti', 'uu', 'cipta', 'kerja', 'uu', 'kpk', 'pandemi', 'utang', 'negara', 'aspirasi', 'rakyat', 'love', 'you', 'mba', 'undur', 'cepet']",negative
+2021-08-30 05:49:58,"['jamin', 'lindung', 'kerja', 'terphk', 'uu', 'cipta', 'kerja']",positive
+2021-08-30 05:42:23,"['uu', 'cipta', 'kerja', 'dorong', 'umkm']",positive
+2021-08-30 04:43:26,"['uu', 'cipta', 'kerja', 'mudah', 'susah']",positive
+2021-08-30 04:12:15,"['uu', 'cipta', 'kerja', 'mudah', 'laku', 'umkm']",positive
+2021-08-30 04:05:44,"['sosialisasi', 'selenggara', 'informasi', 'jajar', 'dinas', 'ppkukm', 'provinsi', 'dki', 'jakarta', 'kait', 'sistem', 'izin', 'mandiri', 'elektronik', 'tuang', 'uu', 'nomor', 'cipta', 'kerja', 'pp', 'nomor']",positive
+2021-08-30 04:00:06,"['senin', 'roslina', 'spi', 'luhkan', 'kota', 'banjarmasin', 'damping', 'pembddy', 'ikan', 'sosialisasi', 'atur', 'awas']",negative
+2021-08-30 03:56:42,"['senin', 'roslina', 'spi', 'luhkan', 'kota', 'banjarmasin', 'damping', 'pembddy', 'ikan', 'sosialisasi', 'atur', 'awas', 'pembddy', 'ikan', 'pasca', 'terbit', 'uu', 'no', 'cipta', 'kerja', 'daring', 'benua', 'anyar', 'banyuwangi', 'kp']",positive
+2021-08-30 03:12:27,"['uu', 'cipta', 'kerja', 'manufaktur']",positive
+2021-08-30 03:07:39,"['uu', 'cipta', 'kerja', 'upaya', 'cepat', 'pulih', 'ekonomi']",positive
+2021-08-30 03:06:35,"['perintah', 'kesah', 'uu', 'cipta', 'kerja']",positive
+2021-08-30 03:06:17,"['seyogyanya', 'pandang', 'uu', 'cipta', 'kerja', 'ikhtiar', 'bangun', 'fondasi', 'bangsa']",positive
+2021-08-30 02:43:32,"['laku', 'bantu', 'uu', 'cipta', 'kerja']",positive
+2021-08-30 02:42:23,"['sesuai', 'amanah', 'uu', 'cipta', 'kerja', 'terbit', 'ppnya', 'wajib', 'menteri', 'lembaga', 'bumn', 'alokasi', 'persen', 'belanja', 'serap', 'produkproduk', 'umkm', 'sempat', 'optimal', 'pungkas', 'fiki']",positive
+2021-08-30 01:46:23,"['rakyat', 'nilai', 'rasa', 'lupa', 'omnibuslaw', 'penuh', 'khianat', 'sah']",negative
+2021-08-30 00:45:17,"['uu', 'cipta', 'kerja', 'sederhana', 'dalamm', 'izin']",positive
+2021-09-04 14:02:57,"['suruh', 'ubah', 'isi', 'ruu', 'omnibuslaw', 'ruu', 'resah', 'ri', 'purapura', 'dengar', 'eh']",negative
+2021-09-04 13:23:28,"['deh', 'omnibuslaw', 'tentang', 'orang', 'kontroversi', 'demo', 'tetep', 'sah', 'anak', 'mantu', 'maju', 'demo']",negative
+2021-09-04 10:24:21,"['asmara', 'tekad', 'bulat', 'pilih', 'partai', 'maling', 'partai', 'dukung', 'omnibuslaw', 'titik', 'koma']",negative
+2021-09-04 04:43:50,"['susah', 'nasib', 'uu', 'kpk', 'omnibuslaw', 'uu', 'cilaka', 'kaum', 'elit', 'elemen', 'masyarakat', 'mahasiswa', 'panas', 'awal', 'jalan', 'ayo', 'kepung', 'istana', 'negeri', 'selamat']",negative
+2021-09-04 04:21:10,"['isu', 'sosial', 'sara', 'narkoba', 'ott', 'kecil', 'besok', 'isu', 'ideologi', 'maklum', 'kasak', 'kusuk', 'amandemen', 'isi', 'pola', 'senayan', 'bahas', 'uu', 'minerba', 'uu', 'kpk', 'uu', 'omnibuslaw', 'bansos', 'suap', 'pinangki', 'whoa']",negative
+2021-09-03 16:40:47,"['tambal', 'tambal', 'ide', 'deh', 'lu', 'bikin', 'uunya', 'ngasal', 'kaya', 'uu', 'kpk', 'omnibuslaw']",negative
+2021-09-03 15:45:22,"['dikit', 'dikit', 'atur', 'negara', 'atur', 'munculah', 'omnibuslaw']",negative
+2021-09-03 13:54:19,"['suruh', 'rubah', 'isi', 'ruu', 'omnibuslaw', 'ruu', 'resah', 'ri', 'purapura', 'dengar', 'eh', 'ruu', 'pks', 'matang', 'godok', 'dirubahrubah']",negative
+2021-09-03 10:03:57,"['uu', 'omnibuslaw', 'miskin', 'rakyat', 'pribumi', 'sistematis', 'kerja', 'sistem', 'kontrak', 'durasi', 'upah', 'minim', 'sistematis', 'rakyat', 'hilang', 'cita', 'hidup', 'layak']",negative
+2021-09-03 06:33:29,"['pakai', 'hitung', 'hitung', 'omnibuslaw', 'kaya', 'kerja', 'rakyat', 'sengsara']",negative
+2021-09-03 04:34:01,"['tipu', 'presidential', 'threshold', 'tipu', 'omnibuslaw']",negative
+2021-09-03 00:43:25,"['bulat', 'tekad', 'amandemen', 'uud', 'uu', 'omnibuslaw', 'kuat', 'korupsi', 'dll']",negative
+2021-09-02 19:31:37,"['tolak', 'omnibuslaw', 'laku', 'turun', 'sejahtera', 'lindung', 'buruh', 'anggota', 'puk', 'spamk', 'fspmi', 'pt', 'siws', 'purwakarta', 'komando']",negative
+2021-09-02 19:31:06,"['blue', 'kspi', 'fspmicirebon', 'tolak', 'omnibuslaw', 'laku', 'turun', 'sejahtera', 'lindung', 'buruh', 'anggota', 'puk', 'spamk', 'fspmi', 'pt', 'siws', 'purwakarta', 'komando']",negative
+2021-09-02 16:42:27,"['isu', 'rencana', 'amandemen', 'uud', 'batas', 'sepisepi', 'ramai', 'berita', 'coky', 'gap', 'nyabu', 'duga', 'leceh', 'kpi', 'putar', 'berita', 'selebritas', 'atur', 'ugalugalan', 'omnibuslaw', 'taruh', 'panjang', 'jabat', 'presiden', 'siuman']",negative
+2021-09-02 14:01:11,"['yaelah', 'katakata', 'langgar', 'orang', 'wkwk', 'rakyat', 'ramairamai', 'tolak', 'omnibuslaw', 'dengar']",negative
+2021-09-02 13:40:27,"['yaelah', 'katakata', 'langgar', 'orang', 'wkwk', 'rakyat', 'ramairamai', 'tolak', 'omnibuslaw', 'dengar', 'jalan', 'tuh']",negative
+2021-09-02 09:43:30,"['omnibuslaw', 'amandemen', 'ppkm', 'psbb', 'daring', 'prikitiew', 'preketek', 'kreatifitas', 'bablas', 'kreatif', 'kadang', 'bablas']",negative
+2021-09-02 08:03:20,"['bilang', 'dangar', 'aaspirasi', 'rakyat', 'bangga', 'demo', 'omnibuslaw', 'geming', 'korban', 'dpr', 'koalisi', 'kali', 'pro', 'rakyat', 'diam', 'diam', 'bae', 'komen']",negative
+2021-09-02 04:56:04,"['parah', 'banget', 'deh', 'main', 'sita', 'omnibuslaw', 'kejam']",negative
+2021-09-02 03:40:42,"['mr', 'cabut', 'omnibuslawminerba']",negative
+2021-09-01 18:33:31,"['plangaplongo', 'ig', 'jual', 'nampang', 'doang', 'satu', 'masalah', 'hukum', 'tuntas', 'lia', 'eden', 'ahmadiyah', 'ahok', 'omnibuslaw', 'artikel', 'narasi', 'kosong', 'bukti', 'hasil', 'kerja', 'nyata']",negative
+2021-09-01 16:55:16,"['kata', 'jujur', 'anakanak', 'revolusi', 'jokowi', 'represif', 'samasama', 'tau', 'konsekuensi', 'rezim', 'represi']",negative
+2021-09-01 14:59:11,"['bener', 'sih', 'pandemi', 'dpr', 'rajin', 'patut', 'curiga', 'kaya', 'omnibuslaw', 'pas', 'pandemi', 'males', 'banget', 'kasih', 'duit', 'biar', 'uunya', 'rajin', 'kasih', 'dapet', 'untung', 'degan', 'uu', 'gampang', 'baca', 'tebak']",negative
+2021-09-01 11:02:05,"['kata', 'jujur', 'anakanak', 'revolusi', 'jokowi', 'represif', 'samasama', 'tau', 'konsekuensi', 'rezim', 'represif', 'kerdil', 'demokrasi', 'muncul', 'omnibuslaw', 'cipta', 'kerja', 'delegitimasi', 'kpk', 'dll', 'tentang', 'tinggal', 'kerah', 'aparat', 'represif', 'aja']",negative
+2021-09-01 05:58:57,"['omnibuslaw', 'batal', 'salah', 'satu', 'rusak', 'lingkung']",negative
+2021-09-01 03:58:03,"['mirah', 'uu', 'ciptaker', 'sahkan', 'elemen', 'masyarakat', 'tolak', 'draft', 'uu', 'sayang', 'parlemen', 'wakil', 'rakyat', 'tolak']",negative
+2021-09-01 03:30:21,"['dpri', 'omnibuslaw', 'revisi', 'uu', 'kpk', 'tolak', 'rakyat', 'sahkan', 'tai', 'kucing']",negative
+2021-09-01 02:26:16,"['uu', 'ciptaker', 'sahkan', 'elemen', 'masyarakat', 'tolak', 'draft', 'uu', 'sayang', 'parlemen', 'wakil', 'rakyat', 'lenggang', 'perintah', 'kesah', 'uu', 'ciptaker', 'omnibuslaw', 'rakyat', 'korban', 'uu', 'ciptaker']",negative
+2021-08-31 13:33:31,"['omnibuslaw', 'untung', 'oligarki']",negative
+2021-08-31 12:24:17,"['demo', 'buruh', 'mogok', 'kerja', 'laku', 'masuk', 'dprri', 'gedung', 'mendagri', 'bumn', 'depnaker', 'laku', 'sang', 'ketua', 'masuk', 'istana', 'lemah', 'usaha', 'kolap', 'kuat', 'usaha', 'lanjut', 'omnibuslaw']",negative
+2021-08-31 10:43:04,"['uu', 'omnibuslaw', 'untung', 'kerja', 'usaha', 'suka', 'investor']",positive
+2021-08-31 03:20:49,"['ri', 'power', 'satu', 'rakyat', 'bukti', 'demo', 'omnibuslaw', 'uu', 'cipta', 'kerja', 'revisi', 'uu', 'kpk', 'gubris', 'anggap', 'korban', 'luka', 'nyawa', 'tragedi', 'anggap', 'perintah', 'samsek']",negative
+2021-08-30 13:21:00,"['rakyat', 'nilai', 'rasa', 'lupa', 'omnibuslaw', 'penuh', 'khianat', 'sah']",negative
+2021-08-30 12:55:59,"['aku', 'hebat', 'omnibuslaw', 'bansos', 'rumah', 'subsidi', 'juta', 'rencana', 'pindah', 'kota', 'hasil']",negative
+2021-08-30 11:56:23,"['rakyat', 'demo', 'tolak', 'omnibuslaw', 'dengar', 'tuh']",negative
+2022-03-06 23:12:33,"['omnibuslaw', 'antar', 'negara', 'maju', 'omnibuslaw', 'dongkrak', 'tumbuh', 'ekonomi']",positive
+2022-03-06 22:36:34,"['hasil', 'omnibuslaw', 'atur', 'atur', 'korelasi', 'contoh', 'bpjs', 'kait', 'layan', 'perintah']",negative
+2022-03-06 16:45:11,"['prediksi', 'gol', 'masuk', 'barang', 'putus', 'malam', 'omnibuslaw']",negative
+2022-03-06 14:42:16,"['wujud', 'potensi', 'ekonomi', 'digital', 'omnibuslaw', 'perintah', 'infrastruktur']",positive
+2022-03-06 13:42:13,"['uu', 'omnibuslaw', 'uu', 'ikn', 'bangun', 'wacana', 'rupa', 'kali', 'review', 'ketuk', 'palu', 'sah', 'periode', 'kerah', 'kpu', 'kpk', 'tni', 'polri', 'kemendagri', 'mk', 'kunci', 'perintah', 'meikarta', 'reklamasi', 'gagal']",negative
+2022-03-06 13:04:58,"['wow', 'polisi', 'situ', 'ayom', 'layan', 'masyarakat', 'masyarakat', 'duit', 'konflik', 'tambang']",negative
+2022-03-06 12:30:22,"['uu', 'ubah', 'salah', 'ketik', 'uu', 'kpk', 'omnibuslaw', 'uu', 'ite', 'wacana', 'perintah', 'dpr', 'ketuk', 'palu', 'nama', 'rakyat', 'buzer', 'rp']",negative
+2022-03-06 06:52:37,"['tanggung', 'muncul', 'uu', 'omnibuslaw', 'atu', 'uu', 'cipta', 'kerja', 'jht']",negative
+2022-03-06 06:24:03,"['evaluasi', 'pilih', 'pancasila', 'agamaitu', 'kpk', 'loh', 'abal', 'abal', 'bullshit', 'logika', 'omnibuslaw', 'uu', 'ciptaker', 'hei', 'ciptaker', 'rancang', 'megawati', 'bentuk', 'paragrafdan', 'isi', 'sempurna']",negative
+2022-03-06 03:46:01,"['kerja', 'kontrak', 'si', 'taufik', 'kemas', 'lindung', 'cukong', 'alas', 'ekonomi', 'indosat', 'jual', 'bini', 'omnibuslaw', 'anak', 'manusia', 'kenal', 'agama', 'menyengsarakn', 'harto', 'arti', 'makna', 'setia', 'istri']",negative
+2022-03-06 02:33:51,"['wow', 'polisi', 'situ', 'ayom', 'layan', 'masyarakat', 'masyarakat', 'duit', 'konflik', 'tambang', 'hasil', 'produk', 'uu', 'omnibuslaw', 'bodoh', 'rakyat', 'penting', 'korporasi', 'tentang', 'uud', 'terimakasih']",negative
+2022-03-06 01:35:00,"['sungguh', 'menyengesarakan', 'ulang', 'tertawa', 'sungguh', 'sengsara', 'rakyat', 'moga', 'buah', 'pikir', 'presentasi', 'ide', 'gagas', 'sengsara', 'rakyat', 'cabut', 'omnibuslaw']",negative
+2022-03-06 01:00:21,"['sridianava', 'pret', 'pas', 'kesah', 'omnibuslaw', 'aja', 'si', 'said', 'istananegative', 'omnibuslaw', 'cacat', 'prosedur', 'prasangka', 'harap', 'sang', 'dusta']",negative
+2022-03-05 13:07:40,"['uu', 'kontroversial', 'hasil', 'sahkan', 'omnibuslaw', 'uu', 'lemah', 'kpk', 'pede', 'sahkan', 'uu', 'kontroversial']",negative
+2022-03-05 09:41:16,"['omnibuslaw', 'ikn', 'tolak', 'hasil', 'lolos', 'adem', 'ayemapalagi', 'untung', 'anggota', 'dewan']",negative
+2022-03-05 06:46:09,"['oh', 'isu', 'tunda', 'tuh', 'ujung', 'biar', 'ucap', 'terimakasih', 'jokowi', 'bijak', 'jht', 'omnibuslaw', 'bijak', 'revisi']",negative
+2022-03-05 00:00:25,"['dampak', 'omnibuslaw', 'atur', 'jajah']",negative
+2022-03-04 21:08:07,"['sridianava', 'periode', 'puas', 'banget', 'ken', 'tau', 'periode', 'harga', 'roket', 'mana', 'gaji', 'omnibuslaw', 'bahagia']",negative
+2022-03-04 12:59:41,"['tau', 'omnibuslaw', 'cuk']",negative
+2022-03-04 11:54:53,"['jadi', 'ajar', 'kaum', 'buruh', 'atur', 'out', 'sourscing', 'laku', 'zaman', 'partai', 'kuasa', 'omnibuslaw', 'sah', 'saat', 'partai', 'kuasa', 'harus', 'sengsara', 'kaum', 'buruh', 'tambah', 'sengsara', 'salah', 'pilih', 'partai']",negative
+2022-03-04 08:16:26,"['omnibuslawciptaan', 'opung', 'ganggu', 'aparat', 'serbu']",negative
+2022-03-04 06:30:00,"['guna', 'metode', 'omnibus', 'law', 'selektif', 'ketat', 'untuk', 'ruu', 'milik', 'implikasi', 'penting', 'negara', 'uu', 'dampak', 'guna', 'metode', 'omnibus', 'law']",positive
+2022-03-04 03:51:53,"['omnibuslaw', 'inkonstitusionalmerampas', 'lahan', 'jht']",negative
+2022-03-04 01:44:37,"['ngeles', 'omnibuslaw', 'apa', 'solusi']",negative
+2022-03-04 01:42:40,"['ngeles', 'omnibuslaw', 'apa', 'solusi']",negative
+2022-03-03 15:56:44,"['bener', 'omnibuslaw', 'aja', 'lolos']",negative
+2022-03-03 15:29:32,"['tolak', 'uu', 'omnibuslaw', 'permenaker', 'periode', 'lawaann', 'silalahi', 'mirah']",negative
+2022-03-03 15:04:30,"['omnibuslaw', 'sah', 'buruh', 'turun', 'besar', 'susul', 'mahasiswa', 'barang', 'skeptis', 'turun', 'spot', 'pengaruh', 'serentak']",negative
+2022-03-03 14:49:12,"['pd', 'insha', 'allahuu', 'omnibuslaw', 'berlakufitnah', 'radikal', 'radikul', 'lenyapminyak', 'goreng', 'murahulama', 'kriminalisasi', 'pandemi', 'adaprokes', 'berlakuharun', 'mas', 'munculustadz', 'hrs', 'bebas', 'ajak', 'mimpin', 'perangdll', 'keutungan']",negative
+2022-03-03 12:55:48,"['metro', 'lawan', 'rusa', 'bangsa', 'tanah', 'air', 'sumber', 'omnibuslaw']",negative
+2022-03-03 12:05:53,"['expat', 'qatar', 'engineer', 'oilgas', 'sempet', 'kali', 'tawar', 'liat', 'offering', 'status', 'kontrak', 'kerja', 'pajak', 'dll', 'putus', 'qatar', 'aja', 'deh', 'pangeran', 'kodok', 'turun', 'uu', 'omnibuslaw', 'kejam', 'kerja']",negative
+2022-03-03 11:18:23,"['pebro', 'omnibuslaw', 'revisi', 'habis', 'demo', 'massa', 'sahkan', 'undang', 'undang', 'rugi', 'rakyat', 'sih', 'massa', 'cape', 'turun', 'jalan']",negative
+2022-03-03 10:42:49,"['arif', 'omnibuslaw', 'efek', 'rakyat']",negative
+2022-03-03 10:14:00,"['uu', 'ciptaker', 'omnibuslaw', 'batal']",negative
+2022-03-03 09:47:37,"['ingat', 'omnibuslaw', 'partai', 'terang', 'tolak', 'uu', 'jatah', 'proyek', 'sah', 'uu', 'terang', 'tolak']",negative
+2022-03-03 08:34:36,"['ko', 'kaya', 'gin', 'semenjak', 'uud', 'omnibuslaw', 'sahkan', 'tuju', 'omnibuslaw']",negative
+2022-03-03 05:04:04,"['konon', 'uu', 'omnibuslaw', 'tiada', 'amdal', 'prof', 'suara', 'brin']",negative
+2022-03-03 01:35:04,"['jing', 'uu', 'secept', 'kilat', 'bangga', 'nasib', 'kayak', 'uu', 'omnibuslaw', 'gilir', 'langgar', 'uu', 'uu', 'ganti', 'bajing']",negative
+2022-03-03 01:01:11,"['omnibuslaw', 'inkonstitusional', 'tunda', 'milu', 'inkonstitusionalsuka', 'banget', 'rabas', 'konstitusi']",negative
+2022-03-02 22:44:01,"['tolak', 'uu', 'omnibuslaw', 'permenaker', 'periode', 'lawan', 'silalahi', 'mirah', 'sridianava', 'didu']",negative
+2022-03-02 17:58:17,"['alhasan', 'korban', 'uu', 'omnibuslaw', 'kampanye', 'jokowi', 'mundur', 'pabrikpabrik', 'jokowi', 'mundur', 'allahu', 'akbar']",negative
+2022-03-02 16:06:21,"['biang', 'kerok', 'organisasipartai', 'kpk', 'dibungkamomnibuslaw', 'lancar', 'licin', 'banget', 'uler', 'jalan']",negative
+2022-03-02 14:45:31,"['guzel', 'fitnah', 'golong', 'situ', 'sendri', 'fakta', 'tampilin', 'media', 'bnyak', 'pro', 'rakyat', 'timbul', 'omnibuslaw', 'minyak', 'langkah', 'hasil', 'sawit', 'besar', 'dunia', 'masian']",negative
+2022-03-02 14:35:26,"['beres', 'kerja', 'rezim', 'bukti', 'jht', 'omnibuslaw']",negative
+2022-03-02 14:29:48,"['beres', 'kerja', 'rezim', 'bukti', 'jht', 'omnibuslaw']",negative
+2022-03-02 13:38:44,"['biang', 'kerok', 'organisasipartai', 'kpk', 'dibungkamomnibuslaw', 'lancar', 'licin', 'banget', 'uler', 'jalan']",negative
+2022-03-02 12:06:28,"['omnibuslaw', 'tambang', 'lingkung', 'massa', 'jht', 'buruh', 'ngamuk']",negative
+2022-03-02 12:01:56,"['korban', 'uu', 'omnibuslaw', 'kampanye', 'jokowi', 'mundur', 'pabrikpabrik', 'jokowi', 'mundur', 'allahu', 'akbar', 'rezimbebal', 'rezimbebal']",negative
+2022-03-02 11:23:03,"['lanjut', 'manfaat', 'cipta', 'kerja']",positive
+2022-03-02 07:28:14,"['setel', 'diam', 'rame', 'ngerem', 'kecuali', 'omnibuslaw']",negative
+2022-03-02 06:51:38,"['gilir', 'panjang', 'presiden', 'setia', 'konstitusi', 'pas', 'bahas', 'omnibuslaw', 'tabrak', 'konstitusi', 'kanankiri', 'revisi', 'mk']",negative
+2022-03-02 06:04:03,"['kampanye', 'buruh', 'korban', 'uu', 'omnibuslaw', 'cilaka', 'mirah', 'sridianava', 'silalahi']",negative
+2022-03-02 01:13:29,"['uu', 'mk', 'mk', 'orang', 'ngotot', 'uuomnibuslawuu', 'ciptaker', 'jalan', 'nyata', 'inkonstitusional', 'orang', 'tersebutb', 'jalan', 'omnibuslaw', 'rubah', 'uu', 'milu', 'panjang', 'periode', 'presiden', 'darurat', 'kawan']",negative
+2022-03-01 22:35:20,"['ruh', 'btw', 'omnibuslaw', 'gugat', 'pasal', 'pasal', 'anggap', 'rugi', 'buruh', 'lingkung', 'sidang', 'langsung', 'tolak', 'skenario']",negative
+2022-03-01 16:33:53,"['lawan', 'rusa', 'bangsa', 'tanah', 'air', 'sumber', 'omnibuslaw']",negative
+2022-03-01 14:13:07,"['omnibuslaw', 'ri', 'ajaib', 'banget', 'rakyat', 'wadas', 'yg', 'dizolimi']",negative
+2022-03-01 10:15:19,"['bagi', 'iya', 'udah', 'tanda', 'tangan', 'atas', 'materai', 'isi', 'terima', 'uang', 'kompensasi', 'kontrak', 'sesuai', 'undang', 'laku', 'liat', 'tuh', 'hilal', 'rekening', 'zonk', 'aja']",negative
+2022-03-01 07:56:42,"['cab', 'tolak', 'omnibuslaw', 'bukti', 'omnibuslaw', 'nyata', 'inkonstitusional', 'mk']",negative
+2022-03-01 06:50:19,"['ruh', 'elehhoax', 'ujar', 'benci', 'kritik', 'pakai', 'data', 'kritik', 'ruu', 'kpk', 'omnibuslaw', 'wadas', 'ikn', 'akademisi', 'kaum', 'ajar', 'sana', 'kritik', 'angin', 'gemuk', 'koalisi', 'buzzer', 'langsung', 'bunuh', 'karakter']",negative
+2022-03-01 06:07:07,"['pulang', 'mas', 'urus', 'pake', 'bpjs', 'minyak', 'susah', 'kedelai', 'mahal', 'kerja', 'kekang', 'omnibuslaw', 'cair', 'jamsostek', 'nunggu', 'th', 'mending', 'hujan', 'emas', 'negeri', 'orang', 'hujan', 'batu', 'negeri']",negative
+2022-03-01 04:26:45,"['engkong', 'putin', 'ogah', 'mampir', 'kemari', 'si', 'bang', 'bisikin', 'kuping', 'omnibuslaw', 'periode', 'minyak', 'goreng', 'langka']",negative
